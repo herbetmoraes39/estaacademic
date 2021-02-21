@@ -17,8 +17,6 @@ superuser: true
 title: "@_Estatistica"
 ---
 
-O @_Estatistica é um projeto que começou no instagram....Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+O Estatística blog foi idealizado em Manaus (Amazonas) e teve sua origem no Instagram (@_estatistica) em agosto de 2020. Tem como objetivo trazer dicas, curiosidades, tutoriais e diversas informações sobre o mundo da estatística e ciência de dados.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Temos como missão compartilhar o conhecimento de forma simples e didática e conectar a todos através da divulgação de cursos, palestras, workshops, entre outros eventos que agregam ainda mais os saberes entre os diversos locais do Brasil e do mundo.
